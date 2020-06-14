@@ -4,6 +4,8 @@ This project was done for the Same Home Different Hacks Hackathon. The competiti
 
 A link to our devpost submission can be found here: https://devpost.com/software/fakenewsify-news-credibility-checker
 
+A link to a small YouTube demo can be found here: https://www.youtube.com/watch?v=rbDgyr0pr6o
+
 ## Screenshots Of Core Pages 
 
 Our web app comrises of 4 different views. The home view allows users to enter article url links directly and get immediate results on the title and summary of that article as well as whether or not it's real/fake or clickbait/not clickbait. The about page summarizes the apps intention and main functions. The live feed page is where our app gets data from the Python news api and constantly updates the page with new news articles as well as an image of their thumbnail, their url, headline, and whether or not they're real/fake or clickbait/non clickbait. Our final page trends is where we use our user submitted data combined with MongoDB to create these google analytics charts to compare fake vs real sources and clickbait vs non clickbait ones. 
